@@ -1,4 +1,10 @@
+
+
+#                                          Clone do Netflix
+
 ![image-20210816140501627](C:\Users\Wagner\AppData\Roaming\Typora\typora-user-images\image-20210816140501627.png)
+
+#                          Descrição
 
 Clone do NETFLIX com as series e filmes que eu sempre gostei por isso o nome "GoodFlix".
 
