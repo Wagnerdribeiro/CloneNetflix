@@ -2,7 +2,7 @@
 
 #                                          Clone do Netflix
 
-![image-20210816140501627](C:\Users\Wagner\AppData\Roaming\Typora\typora-user-images\image-20210816140501627.png)
+https://github.com/Wagnerdribeiro/CloneNetflix/issues/1#issue-971965467
 
 #                          Descrição
 
